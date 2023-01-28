@@ -12,7 +12,7 @@ h1 {
     font-size: 3.125rem;
 }
 
-header a {
+header p a {
     color: aquamarine;
     font-size: 1rem;
 }
@@ -30,16 +30,13 @@ p {
     font-size: 1.3125rem;
 }
 
-div.bottomimage {
-    padding-top: 1.5rem;
-}
 
-div a {
+
+div p a {
     color: aquamarine;
     font-size: 1rem;
 }
 
 footer {
-    position: relative;
-    left: 400px;
+    text-align: right;
 }
