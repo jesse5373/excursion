@@ -2,6 +2,7 @@ body {
     background-color: black;
     text-align: center;
     font-size: 16px; 
+    
 }
 
 h1 {
@@ -23,7 +24,7 @@ h2 {
     font-size: 2.625rem;
 }
 
-h3 {
+p {
     color: Gray;
     font-family: Verdana;
     font-size: 1.3125rem;
@@ -36,4 +37,9 @@ div.bottomimage {
 div a {
     color: aquamarine;
     font-size: 1rem;
+}
+
+footer {
+    position: relative;
+    left: 400px;
 }
